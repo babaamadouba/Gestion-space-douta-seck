@@ -1,0 +1,10 @@
+ID,Date,Heure début,Heure fin,Groupe,Motif
+3,2026-04-04,15:00:00,17:00:00,groupe3,important
+4,2026-03-03,15:00:00,17:00:00,Groupe1,jeux
+5,2025-02-02,8:00:00,10:00:00,groupe2,test
+6,2026-03-04,8:00:00,10:00:00,groupe2,aaaa
+7,2026-06-04,8:10:00,10:10:00,Groupe1,jeux
+8,2026-03-05,8:00:00,11:00:00,groupe2,test
+9,2026-07-07,8:00:00,17:00:00,Groupe1,test
+10,2026-07-08,9:00:00,12:00:00,groupe2,test creneau
+11,2026-08-07,17:00:00,19:00:00,groupe3,reunion urgence
